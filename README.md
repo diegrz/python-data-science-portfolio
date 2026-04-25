@@ -10,21 +10,21 @@ My focus is on using Python and specialized scientific tools to analyze complex 
 
 Below is an overview of the projects included in this repository. Each folder contains its own detailed `README.md` and the source code.
 
-### 1. [Stochastic Processes: 2D Random Walk](./stochastic_processes) 🎲
+### 1. [Stochastic Processes: 2D Random Walk](./random_walks) 🎲
 A mathematical simulation of a 50,000-step 2D random walk to model Brownian motion.
 * **Key Skills:** NumPy vectorization, temporal color-mapping, continuous distribution logic.
 * **Visuals:** High-density scatter plots and real-time step animations using Matplotlib.
 
-### 2. [Geospatial Data Analysis: Global Seismology](./data_visualization) 🌍
+### 2. [Geospatial Data Analysis: Global Seismology](./working_data_csv_json/mapping_global_data) 🌍
 A multidimensional visualization of global seismic activity utilizing live feeds from the US Geological Survey (USGS).
 * **Key Skills:** Geospatial mapping, parsing structured data, multidimensional visual encoding (size and colormaps).
 * **Visuals:** Scatter plotting to identify tectonic plate boundaries (e.g., the Pacific Ring of Fire).
 
-### 3. [Time Series Analysis: Climate Variance](./data_visualization) 📈
+### 3. [Time Series Analysis: Climate Variance](./working_data_csv_json/weather_data_csv) 📈
 An analysis of annual temperature fluctuations capturing macro-seasonal trends and daily volatility.
 * **Key Skills:** `datetime` parsing, sequential data plotting, advanced visualization (`fill_between` for thermal amplitude).
 
-### 4. [Data Engineering & APIs: GitHub Ecosystem](./data_visualization) 🔌
+### 4. [Data Engineering & APIs: GitHub Ecosystem](./web_API) 🔌
 An ETL (Extract, Transform, Load) pipeline querying the GitHub REST API to analyze the most popular open-source Python repositories.
 * **Key Skills:** HTTP `GET` requests, nested JSON parsing, dynamic data scaling, and dictionary manipulation.
 
