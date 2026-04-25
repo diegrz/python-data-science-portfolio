@@ -45,3 +45,8 @@ A classic arcade-style shooter built from scratch demonstrating standard softwar
 * **Software Dev & APIs:** Pygame, RESTful APIs, OOP Architecture.
 * **Scientific Tools:** GROMACS, PyMOL, ORCA.
 
+---
+
+## 📄 [Full Technical Portfolio](./DiegoRuiz_technical_portfolio.pdf)
+A comprehensive PDF document detailing the theoretical framework, implementation logic, and high-resolution visualizations for all these projects is available. 
+
